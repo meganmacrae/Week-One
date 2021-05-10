@@ -10,7 +10,7 @@ My **favourite** piece of academic writing thus far in my university career woul
 2. After establishing my account, I created my first repository and called it "Week-One" as well as checked the box that said "initialize this repository with a README".
 3. I proceeded to watch the video tutorials on how to create and upload files to Github.
 4. I then clicked the "add file" box and chose the "upload files" option.
-5. I dragged my "DIGH 3814" file folder option into Github.com which then uploded my log.md, reflection.md and photo files.
+5. I dragged my "DIGH 3814 Week 1" file folder option into Github.com which then uploded my log.md, reflection.md and photo files.
 6. An issue occurred with my log where the photos were not coming up properly on the rendered version, why is this?
 7. Realized that I put round brackets around the name of the photo instead of square brackets.
 8. Once I fixed the brackets, the rendered version of the log.md looked correct.
